@@ -1,0 +1,5 @@
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\CsharpConsoleApplication\CsharpConsoleApplication\bin\Debug\CsharpConsoleApplication.exe.config
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\CsharpConsoleApplication\CsharpConsoleApplication\bin\Debug\CsharpConsoleApplication.exe
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\CsharpConsoleApplication\CsharpConsoleApplication\bin\Debug\CsharpConsoleApplication.pdb
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\CsharpConsoleApplication\CsharpConsoleApplication\obj\Debug\CsharpConsoleApplication.exe
+C:\Users\anyan\Desktop\Csharp_Git_Assignment\CsharpConsoleApplication\CsharpConsoleApplication\obj\Debug\CsharpConsoleApplication.pdb
