@@ -10,7 +10,7 @@ namespace CsharpConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.Write("This is first commit code.\n");
+            Console.Write("This is second commit code.\n");
         }
     }
 }
